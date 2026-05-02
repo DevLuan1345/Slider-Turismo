@@ -17,9 +17,9 @@ Desenvolver uma interface moderna e responsiva que simula um slider de turismo, 
 
 ## 🧱 Tecnologias Utilizadas
 
-HTML5 🟧
-CSS3 🟦
-JavaScript 🟨
+- HTML5 🟧
+- CSS3 🟦
+- JavaScript 🟨
 
 ## 📱 Responsividade
 
